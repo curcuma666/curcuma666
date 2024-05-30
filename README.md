@@ -1,3 +1,2 @@
-[👋] Hello everyone 
 
-[💪] This is account reserved by [@a9fm](https://a9fm.github.io)
+<video scr="https://github.com/curcuma666/curcuma666/raw/main/VID_20240530_142043_229.mp4"/>
